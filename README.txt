@@ -5,3 +5,5 @@ Commiting from an alternate location
 Sharing remotly is fun and easy 
 
 Feature1
+Feature2
+Feature2 changes
